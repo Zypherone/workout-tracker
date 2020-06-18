@@ -31,7 +31,9 @@ An application for tracking your fitness workouts.
 ---
 
 ## Screenshots
-<img src="example.gif" width="250">
+<img src="/public/images/screenshot1.jpg" width="250">
+<img src="/public/images/screenshot2.jpg" width="250">
+<img src="/public/images/screenshot3.jpg" width="250">
 
 ## Built with
 - [Node.js](https://nodejs.org/en/)
